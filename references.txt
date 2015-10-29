@@ -1,0 +1,10 @@
+http://docs.ggplot2.org/0.9.3.1/map_data.html
+https://uchicagoconsulting.wordpress.com/tag/r-ggplot2-maps-visualization/
+http://cran.r-project.org/web/packages/countrycode/countrycode.pdf
+http://www.cookbook-r.com/Manipulating_data/Renaming_levels_of_a_factor/
+https://en.wikipedia.org/wiki/16PF_Questionnaire
+http://www.statmethods.net/
+http://ipip.ori.org/new16PFKey.htm
+http://ipip.ori.org/newScoringInstructions.htm
+https://tgmstat.wordpress.com/2013/11/13/plot-matrix-with-the-r-package-ggally/
+http://www.rstudio.com/resources/cheatsheets/
