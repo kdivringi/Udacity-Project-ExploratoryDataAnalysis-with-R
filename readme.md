@@ -1,13 +1,3 @@
----
-title: "Investigating Personality Test Results From Around the World"
-output:
-  html_document:
-    fig_height: 7
-    fig_width: 9
-    theme: united
-    toc: yes
----
-
 Personality Test Data EDA (Project 3) by Kaan Divringi
 ========================================================
 
